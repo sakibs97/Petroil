@@ -20,8 +20,8 @@ export default {
       borderColor: {
         hdbtmom: "#FFB800"
       },
-      colors: {
-
+      backgroundImage: {
+        banbg: "url(./src/assets/banner.png)"
       }
     },
   },
