@@ -7,7 +7,7 @@ const Menu = () => {
     let [show, setShow] = useState(false)
 
     return (
-        <nav className=" bg-[#F40404] ">
+        <nav className=" bg-[#F40404] px-5">
             <div className="max-w-container mx-auto py-5">
                 <div className="flex justify-between">
                     <div className="">

@@ -6,7 +6,7 @@ import Galleryreusable from "./reusable/Galleryreusable"
 
 const Gallery = () => {
     return (
-        <div className="lg:flex lg:gap-x-5 ">
+        <div className="flex flex-wrap justify-between mb-6">
             <Galleryreusable gal1={gal1} />
             <Galleryreusable gal1={gal2} />
             <Galleryreusable gal1={gal3} />

@@ -2,11 +2,8 @@
 
 const Galleryreusable = ({ gal1 }) => {
     return (
-        <div className="">
-            <div className="lg:w-full">
-                <img src={gal1} alt="" />
-            </div>
-
+        <div className="lg:w-[24%] sm:w-[49%] lg:py-0 py-2">
+            <img src={gal1} className="w-full" alt="gal1" />
         </div>
     )
 }

@@ -21,7 +21,8 @@ export default {
         hdbtmom: "#FFB800"
       },
       backgroundImage: {
-        banbg: "URL(./src/assets/banner.png)"
+        banbg: "URL(./src/assets/banner.png)",
+        serbg: "url(./src/assets/unsplash.png)"
       }
     },
   },
